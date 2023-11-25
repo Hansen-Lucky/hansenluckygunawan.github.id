@@ -352,7 +352,7 @@ footer h1 {
     text-align: center;
 }
 
-      @media screen and (max-width:652px) {
+      /* @media screen and (max-width:652px) {
         #Home .Judul h1 {
             margin-top: 250px;
         }
@@ -397,4 +397,4 @@ footer h1 {
             flex-direction: column;
             height: fit-content;
         }
-    } */
+    } */ 
